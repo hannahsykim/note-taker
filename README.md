@@ -17,7 +17,7 @@
 
 
   ## Visual <a id="visual"></a>
- ![alt txt](../hw-11/Assets/Screen%20Shot%202022-12-17%20at%2012.22.57%20PM.png)
+ ![Screen Shot 2022-12-17 at 12 22 57 PM](https://user-images.githubusercontent.com/113808775/208267557-d9c5bca9-5ad9-43f2-b355-938a67c2a289.png)
 
   ## Installation <a id="installation"></a>
   Clone the repository to your system, then install npm into your command line. Make sure you have node installed.
